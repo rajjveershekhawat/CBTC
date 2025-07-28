@@ -9,8 +9,7 @@ Welcome to my collection of frontend development projects. Each project is built
 ### 🔹 1. BLOGSPHERE
 A stylish blog page UI for modern blogging platforms. This project includes a structured layout, clean typography, and responsive design elements.
 
-📄 **File**: `BLOGSPHERE/BlogSphere.html`  
-🔗 **Live Preview**: _Coming soon_  
+📄 **File**: `BLOGSPHERE/BlogSphere.html`   
 
 ---
 
@@ -21,7 +20,6 @@ Emporifyx is a landing page for a digital product or SaaS company. It features a
 - `EMPORIFYX/EMPORIFYX.html` – Main landing page  
 - `EMPORIFYX/free-trial.html` – Redirected trial page  
 
-🔗 **Live Preview**: _Coming soon_
 
 ---
 
@@ -29,7 +27,6 @@ Emporifyx is a landing page for a digital product or SaaS company. It features a
 Eventlitez is a mockup event management website layout, including event listings, hero sections, and elegant visual components with responsive behavior.
 
 📄 **File**: `EVENTLITEZ/EVENTLITEZ.html`  
-🔗 **Live Preview**: _Coming soon_
 
 ---
 
